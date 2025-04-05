@@ -1,0 +1,7 @@
+Origin: 老牌猫源 Archive
+Label: 老牌猫源 Archive
+Description: 分享创造价值
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
