@@ -1,0 +1,488 @@
+Package: com.25mao.DouTu
+Version: 3.1-5
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.25mao.doutu_3.1-5_iphoneos-arm_055d6a3bba484015642f47e32aeed1c7dbb13a5e9d3cca41fe9725ece4a7090f.deb
+Size: 1778890
+MD5sum: 4f1cfa0af627709ba36e6ffb8e2c3650
+SHA1: 33b44a156a463d91fdd5fad07cbc25cb083ff9bd
+SHA256: 055d6a3bba484015642f47e32aeed1c7dbb13a5e9d3cca41fe9725ece4a7090f
+Section: 微信插件
+Priority: optional
+Description: 斗图助手
+Author: Mao
+Name: 斗图助手
+Sponsor: admin@25mao.com
+
+Package: com.25mao.FakeAccess
+Version: 0.1-2
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader, applist
+Filename: ./debs/iphoneos-arm/com.25mao.fakeaccess_0.1-2_iphoneos-arm_151e2e6d82be9d2ae56f29ef975da313467eef52d00d8860f7e7d088decbbc1c.deb
+Size: 71548
+MD5sum: d8972a17542c9e8a25b11fd8677b8e8b
+SHA1: 47794891a3c96fd66335e6f0aa56022e5a2b0e68
+SHA256: 151e2e6d82be9d2ae56f29ef975da313467eef52d00d8860f7e7d088decbbc1c
+Section: 系统插件
+Priority: optional
+Description: 虚拟访问权限插件
+Author: Mao
+Name: 虚拟访问权限
+Sponsor: admin@25mao.com
+
+Package: com.25mao.GameLogin
+Version: 0.1-5
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.25mao.gamelogin_0.1-5_iphoneos-arm_854b609ad15d4f5a588702fae12fbc684c50ee5aded52b44b62c53db2e949fa8.deb
+Size: 32158
+MD5sum: 81c91f9bac54061a5c98fd46f280b06d
+SHA1: 632a12aee37530d80eab6a4d88f5e94aabd441b5
+SHA256: 854b609ad15d4f5a588702fae12fbc684c50ee5aded52b44b62c53db2e949fa8
+Section: 微信插件
+Priority: optional
+Description: 腾讯游戏扫码登录
+Author: Mao
+Name: 腾讯游戏扫码登录
+
+Package: com.25mao.JDQuan
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.25mao.jdquan_1.0-1_iphoneos-arm_0bb591c230d8d22576364c23ccb8e565c52bc21dafa3bb03cefd464fce19e42e.deb
+Size: 73288
+MD5sum: 2f1e61abc5f6207be30c4fe8403c73a4
+SHA1: 067e6d5dbafec7b3533a61d6845900b897003045
+SHA256: 0bb591c230d8d22576364c23ccb8e565c52bc21dafa3bb03cefd464fce19e42e
+Section: 辅助插件
+Priority: optional
+Description: 京东购物优惠券
+Author: Mao
+Name: 京东优惠券
+Sponsor: admin@25mao.com
+
+Package: com.25mao.KuaiPanel
+Version: 0.1-8
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader, applist, org.thebigboss.libcolorpicker
+Filename: ./debs/iphoneos-arm/com.25mao.kuaipanel_0.1-8_iphoneos-arm_2e743785e540e767dc58b7facea2107f8596a55204ba0a4ce811ce51b3234794.deb
+Size: 3955268
+MD5sum: 752a6adde50ff316f627d9a6393950f2
+SHA1: fd5a601a65f00634bd405ba3e76bff861c9aaef3
+SHA256: 2e743785e540e767dc58b7facea2107f8596a55204ba0a4ce811ce51b3234794
+Section: 系统插件
+Priority: optional
+Description: 手势增强插件
+Author: Mao
+Name: 快捷面板
+Sponsor: admin@25mao.com
+
+Package: com.25mao.MiYou
+Version: 3.8-3
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.25mao.miyou_3.8-3_iphoneos-arm_5fc45f38578d8b40d4980236f7db58a2593f19580e43c004374e87b5801ab349.deb
+Size: 12508040
+MD5sum: e1394608a9de0f0ca2a651b0dd50b954
+SHA1: 0823008b4e4e3c8ed04b0ea66b86841ccfe90958
+SHA256: 5fc45f38578d8b40d4980236f7db58a2593f19580e43c004374e87b5801ab349
+Section: 微信插件
+Priority: optional
+Description: 微信助手-密友
+Author: Mao
+Name: 微信助手
+Sponsor: admin@25mao.com
+
+Package: com.25mao.MsgFilt
+Version: 1.0-5.1
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.25mao.msgfilt_1.0-5.1_iphoneos-arm_8bfecbcd302f6f8a65f8434becf826681ba03b51cc309b678f022fc35a262d23.deb
+Size: 155106
+MD5sum: 6aff01818f74c26efd4149b4ff0ffd45
+SHA1: d980b6ef1927fcfa005c42b805ac2edd37abe0ff
+SHA256: 8bfecbcd302f6f8a65f8434becf826681ba03b51cc309b678f022fc35a262d23
+Section: 微信插件
+Priority: optional
+Description: 微信消息屏蔽助手
+Author: Mao
+Name: 消息屏蔽助手
+Sponsor: admin@25mao.com
+
+Package: com.25mao.SuDial
+Version: 0.1-5
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.25mao.sudial_0.1-5_iphoneos-arm_71970085c319351d413a5213656352f252b532dc1a45560d4dda931fbd9eb733.deb
+Size: 517918
+MD5sum: 73195a42cec546abc9af60971decf65b
+SHA1: 3c4d52db3618980292f42be68a797b40376e6fc8
+SHA256: 71970085c319351d413a5213656352f252b532dc1a45560d4dda931fbd9eb733
+Section: 系统插件
+Priority: optional
+Description: T9拨号
+Author: Mao
+Name: SuDial - T9拨号
+Sponsor: admin@25mao.com
+
+Package: com.25mao.WXUrlExpand
+Version: 0.2-0
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.25mao.wxurlexpand_0.2-0_iphoneos-arm_051ff3ae01bdf258192aa0cbc07a88d748084fe4ed99e74fe42af8e797e84ac9.deb
+Size: 47964
+MD5sum: ffff587195f453bdb0a6414943fce669
+SHA1: d90044ddc78048b53f954fd9b4d1fce05d5e60c4
+SHA256: 051ff3ae01bdf258192aa0cbc07a88d748084fe4ed99e74fe42af8e797e84ac9
+Section: 微信插件
+Priority: optional
+Description: 扩展微信URLScheme接口
+Author: Mao
+Name: 微信URL扩展
+Sponsor: admin@25mao.com
+
+Package: com.25mao.WeAppTool
+Version: 0.1-8
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.25mao.weapptool_0.1-8_iphoneos-arm_28d2fce06f88f8097cba19378b83d391c945db0744e07f8e47f37ac9e238091f.deb
+Size: 33800
+MD5sum: 4130fb60c45b32f00995a9a122b86e36
+SHA1: d9987a82e0777b50ae59f1d08ef4ed789d47b57f
+SHA256: 28d2fce06f88f8097cba19378b83d391c945db0744e07f8e47f37ac9e238091f
+Section: 微信插件
+Priority: optional
+Description: 微信小程序助手
+Author: Mao
+Name: 微信小程序助手
+Sponsor: admin@25mao.com
+
+Package: com.25mao.YouQuan
+Version: 3.0-9
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.25mao.youquan_3.0-9_iphoneos-arm_5b87b5423dba3c2c2463e585d32db00bfebe4c338cd6ac7164500312f6b4decf.deb
+Size: 79836
+MD5sum: 39a7fa6efd68a5d6e566bcdc54526914
+SHA1: d2a144b65feba29ba6b9cfdecce1926f468b0687
+SHA256: 5b87b5423dba3c2c2463e585d32db00bfebe4c338cd6ac7164500312f6b4decf
+Section: 辅助插件
+Priority: optional
+Description: 淘宝快速领券
+Author: Mao
+Name: 淘宝优惠券
+Sponsor: admin@25mao.com
+
+Package: com.25mao.authorty
+Version: 0.1-2
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.25mao.authorty_0.1-2_iphoneos-arm_f57b6b005fa17f7ff814c2fb8c0da0178737369d9275cf241ca987ff5f004e91.deb
+Size: 52660
+MD5sum: 15bc167c42073f87d2934146a7fdbe17
+SHA1: 5c5e4b5e29bc47ec4f44ae5ac51d4e2b9b7ce2f3
+SHA256: f57b6b005fa17f7ff814c2fb8c0da0178737369d9275cf241ca987ff5f004e91
+Section: 系统插件
+Priority: optional
+Description: 虚拟一些权限
+Author: Mao
+Name: 虚拟权限
+Sponsor: admin@25mao.com
+
+Package: com.25mao.deleteApp
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.25mao.deleteapp_0.1-1_iphoneos-arm_466e480d0c8a07fc4b1d79350af9eb8ad0637bd0f70d1f39aee9fe74e6b98e46.deb
+Size: 20900
+MD5sum: f3ca3b652dbea3f03458bad3709f4c1c
+SHA1: 95b5d76f2764d7b5150ba729fb16ecfbb1358103
+SHA256: 466e480d0c8a07fc4b1d79350af9eb8ad0637bd0f70d1f39aee9fe74e6b98e46
+Section: 系统插件
+Priority: optional
+Description: iOS14直接删除App
+Author: Mao
+Name: 删除App
+Sponsor: admin@25mao.com
+
+Package: com.25mao.doutu.rootless
+Version: 3.1-5
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.doutu.rootless_3.1-5_iphoneos-arm64_66697fd2b25e095d5fa0111029599c013b357dab56c2ea42996167659ac46423.deb
+Size: 1779684
+MD5sum: e679b9f0cde472c0d0b9c9d2c795aeef
+SHA1: d291d9a806d40cb0c4821cca998f25444f1e8579
+SHA256: 66697fd2b25e095d5fa0111029599c013b357dab56c2ea42996167659ac46423
+Section: Rootless
+Priority: optional
+Description: 斗图助手-Rootless
+Author: Mao
+Name: 斗图助手-Rootless
+Sponsor: admin@25mao.com
+
+Package: com.25mao.iWXColor
+Version: 0.1-2
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.25mao.iwxcolor_0.1-2_iphoneos-arm_18baffcf6fb49630799da614b0438154b5eed65875fb70dae2b0a5533fe6ec70.deb
+Size: 26414
+MD5sum: 97f27bddf8296a45bda44a458cb622af
+SHA1: fee5256c29853a3ef5170c43fe053ed0eedb3583
+SHA256: 18baffcf6fb49630799da614b0438154b5eed65875fb70dae2b0a5533fe6ec70
+Section: 微信插件
+Priority: optional
+Description: 微信暗黑主题
+Author: Mao
+Name: 微信暗黑主题
+Sponsor: admin@25mao.com
+
+Package: com.25mao.jdquan.rootless
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.jdquan.rootless_1.0-1_iphoneos-arm64_306cfeead2685d3958b777151ac815ac2bce44ab6bfecfc111544e6025cd0c8b.deb
+Size: 73400
+MD5sum: dc37762db216b3c1a601e79a216947b2
+SHA1: 962a178441478e8eeacb6feabba24289c78aaeac
+SHA256: 306cfeead2685d3958b777151ac815ac2bce44ab6bfecfc111544e6025cd0c8b
+Section: Rootless
+Priority: optional
+Description: 京东优惠券
+Author: Mao
+Name: 京东优惠券-Rootless
+Sponsor: admin@25mao.com
+
+Package: com.25mao.kuaipanel.rootless
+Version: 2.0-5
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.4),ws.hbang.alderis (>= 1.1)
+Filename: ./debs/iphoneos-arm64/com.25mao.kuaipanel.rootless_2.0-5_iphoneos-arm64_a57d2856c8a7229004a4cb3867f8c9731a55f50b7c437bb376fbf90e88f646ab.deb
+Size: 4865506
+MD5sum: 43baa5b844133bba0d7b93c84cf84824
+SHA1: c83c87297e4139a920e1b2f17ad257caec8060f8
+SHA256: a57d2856c8a7229004a4cb3867f8c9731a55f50b7c437bb376fbf90e88f646ab
+Section: Rootless
+Priority: optional
+Description: 快捷面板
+Author: Mao
+Name: 快捷面板-Rootless
+Sponsor: admin@25mao.com
+
+Package: com.25mao.leftPan
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader, applist
+Filename: ./debs/iphoneos-arm/com.25mao.leftpan_1.0-2_iphoneos-arm_bd0788843e1a4daf4c2a533423049be0582027b04153070e8e6172c451878c0e.deb
+Size: 66252
+MD5sum: f71cb54e1c9dd25c86521ea8c6a71525
+SHA1: 3aca04a11a308f486034771d9b969f2283854390
+SHA256: bd0788843e1a4daf4c2a533423049be0582027b04153070e8e6172c451878c0e
+Section: 系统插件
+Priority: optional
+Description: 左滑返回上一页
+Author: Mao
+Name: 左滑返回
+Sponsor: admin@25mao.com
+
+Package: com.25mao.leftpan.rootless
+Version: 1.0-6
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.4)
+Filename: ./debs/iphoneos-arm64/com.25mao.leftpan.rootless_1.0-6_iphoneos-arm64_6ced73222aadaf35091aa25fbf878648a2947ee80f9ca4d4c36b5fa92311aa2e.deb
+Size: 66402
+MD5sum: e0268dfd449fc1973941da59bb3e4743
+SHA1: c9ea4ae935426ee471effdd5e4f85596cba42534
+SHA256: 6ced73222aadaf35091aa25fbf878648a2947ee80f9ca4d4c36b5fa92311aa2e
+Section: Rootless
+Priority: optional
+Description: 左滑返回上一页面
+Author: Mao
+Name: 左滑返回-Rootless
+
+Package: com.25mao.miyou.rootless
+Version: 3.8-3
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.miyou.rootless_3.8-3_iphoneos-arm64_c3556c7c57ef28b22616cf27627fc4d1e08376ad47b4df269ad5703e338aa360.deb
+Size: 12507956
+MD5sum: d2ada92cf32a457707918cb515eaa51a
+SHA1: 23a67f43266e03e8018685c2a75e2049c7618fb9
+SHA256: c3556c7c57ef28b22616cf27627fc4d1e08376ad47b4df269ad5703e338aa360
+Section: Rootless
+Priority: optional
+Description: 微信助手-Rootless版
+Author: Mao
+Name: 微信助手-Rootless
+Sponsor: admin@25mao.com
+
+Package: com.25mao.msgfilt.rootless
+Version: 1.0-5.1
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.msgfilt.rootless_1.0-5.1_iphoneos-arm64_3cfd1ed2bac0557b04bb8b5dc29ae28862bc62befbb81204045f924e6c717b2b.deb
+Size: 155224
+MD5sum: 3bd599bfc8bd37a8ed534df202ec91e1
+SHA1: db1614facdb3bfd27a8bd0433d52f0124a75c568
+SHA256: 3cfd1ed2bac0557b04bb8b5dc29ae28862bc62befbb81204045f924e6c717b2b
+Section: Rootless
+Priority: optional
+Description: 消息屏蔽助手
+Author: Mao
+Name: 消息屏蔽助手-Rootless
+Sponsor: admin@25mao.com
+
+Package: com.25mao.wcbg
+Version: 0.1-4
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.25mao.wcbg_0.1-4_iphoneos-arm_45d414416e9c61c05fd7ff2af026af76a5961fd3f094777b65e46b4525ff3bc4.deb
+Size: 3677626
+MD5sum: dcd8e5980f8abf9f9c9e39564190b15c
+SHA1: 3236dc774e8e0f9b8960d5f964146f0e16d2c84c
+SHA256: 45d414416e9c61c05fd7ff2af026af76a5961fd3f094777b65e46b4525ff3bc4
+Section: 微信插件
+Priority: optional
+Description: 微信聊天页面动态背景
+Author: Mao
+Name: 微信动态背景
+Sponsor: admin@25mao.com
+
+Package: com.25mao.wcplugins
+Version: 0.1-2
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.25mao.wcplugins_0.1-2_iphoneos-arm_385b0e25f49b910d3f43a4330974f4b6e079aca3ccad920de20467639e88b306.deb
+Size: 48458
+MD5sum: 1b6460fa9b7f341c4728dc603bd6b36d
+SHA1: e871f0dc7e250292b0c36e6a4e34a63b0a570445
+SHA256: 385b0e25f49b910d3f43a4330974f4b6e079aca3ccad920de20467639e88b306
+Section: 微信插件
+Priority: optional
+Description: 微信插件收纳
+Author: Mao
+Name: 微信插件管理
+Sponsor: admin@25mao.com
+
+Package: com.25mao.wcplugins.rootless
+Version: 0.1-3
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.wcplugins.rootless_0.1-3_iphoneos-arm64_015fd9a3868bb45432a4da86ea76463667b320e36cfbbc77ba850d1b63ad8f60.deb
+Size: 25170
+MD5sum: 1046a0152a38008d05fc2dd8c69c51be
+SHA1: bf972a85b3591b0140d46abb569c480475b0ec9d
+SHA256: 015fd9a3868bb45432a4da86ea76463667b320e36cfbbc77ba850d1b63ad8f60
+Section: Rootless
+Priority: optional
+Description: 插件管理-Rootless
+Author: Mao
+Name: 微信插件管理-Rootless
+Sponsor: admin@25mao.com
+
+Package: com.25mao.weapptool.rootless
+Version: 0.1-9
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.weapptool.rootless_0.1-9_iphoneos-arm64_0135f46391ab75cad5d01919f8b452cafe954980e30e3ad6e3d2eb8c805b285d.deb
+Size: 35426
+MD5sum: 2ecdd3bd778b9db4a923fb8892ad779d
+SHA1: d1243a6c2c45ea04e4ec4494cad284f1f8ba86aa
+SHA256: 0135f46391ab75cad5d01919f8b452cafe954980e30e3ad6e3d2eb8c805b285d
+Section: Rootless
+Priority: optional
+Description: 微信小程序助手
+Author: Mao
+Name: 微信小程序助手-Rootless
+Sponsor: admin@25mao.com
+
+Package: com.25mao.wxurlexpand.rootless
+Version: 0.2-0
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.wxurlexpand.rootless_0.2-0_iphoneos-arm64_e18078679edc7772530cc0312ce04c85d985b58381ade856c33e052c6bbbbd6d.deb
+Size: 48140
+MD5sum: 9877ec4079f12cfc9152ee0c3f5b0262
+SHA1: e3b6c5931ccc26705b4b68581e003b08fede47d2
+SHA256: e18078679edc7772530cc0312ce04c85d985b58381ade856c33e052c6bbbbd6d
+Section: Rootless
+Priority: optional
+Description: 扩展微信URLScheme接口，方便从外部调用
+Author: Mao
+Name: 微信URL扩展-Rootless
+Sponsor: admin@25mao.com
+
+Package: com.25mao.youquan.rootless
+Version: 3.0-9
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.youquan.rootless_3.0-9_iphoneos-arm64_441654df400f6689a85b17552f706ece275851e068246334146ee6bd95c69a23.deb
+Size: 79928
+MD5sum: 56ddb50923b2f96eac326c768e0c8b19
+SHA1: c53bb028c58b40258b16cff7198f30a0e393d69a
+SHA256: 441654df400f6689a85b17552f706ece275851e068246334146ee6bd95c69a23
+Section: Rootless
+Priority: optional
+Description: 查淘宝优惠券，查商品历史价
+Author: Mao
+Name: 淘宝优惠券-Rootless
+Sponsor: admin@25mao.com
+
+Package: com.tencent.themebox
+Version: 2.0.3-1
+Architecture: iphoneos-arm
+Maintainer: lanmao
+Installed-Size: 8508
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm/com.tencent.themebox_2.0.3-1_iphoneos-arm_5590f35061648b93e1de3eb9c0cf92c8dc917d27100d6cb51ce683d88028127e.deb
+Size: 4087364
+MD5sum: c922e1b7ba7a124258ecbdb197cea545
+SHA1: 3bdb8cb246000d7976b25316116c50addc70890a
+SHA256: 5590f35061648b93e1de3eb9c0cf92c8dc917d27100d6cb51ce683d88028127e
+Section: 微信插件
+Description: 微信主题盒子
+Author: lanmao
+Name: 主题盒子
+
+Package: com.tencent.themebox
+Version: 2.0.3-1
+Architecture: iphoneos-arm64
+Maintainer: lanmao
+Installed-Size: 8588
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.tencent.themebox_2.0.3-1_iphoneos-arm64_626a59b8cba43d47a3b3e0e929df8728bc5fe1deb60b44656b52a1a98fa4e8b5.deb
+Size: 4113388
+MD5sum: 4bccb6577a091d5e6de5a6c8f8991257
+SHA1: ed8f6a70526e6134e49ff08841fc809428af79f4
+SHA256: 626a59b8cba43d47a3b3e0e929df8728bc5fe1deb60b44656b52a1a98fa4e8b5
+Section: 微信插件
+Description: 微信主题盒子
+Author: lanmao
+Name: 主题盒子-无根
+
