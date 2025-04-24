@@ -15,6 +15,23 @@ Author: Mao
 Name: 斗图助手
 Sponsor: admin@25mao.com
 
+Package: com.25mao.DouTu
+Version: 3.1-6
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.25mao.doutu_3.1-6_iphoneos-arm_90af07b95fdb0b1879356a7c183f3f7bb53b50d4ebb8c34718a80533e6b24c9a.deb
+Size: 1480790
+MD5sum: 2755fc4d38b5126450aeaaba55e862ac
+SHA1: 4df31785cb5fd9dfe7d381c01fe55a85f1274e97
+SHA256: 90af07b95fdb0b1879356a7c183f3f7bb53b50d4ebb8c34718a80533e6b24c9a
+Section: 微信插件
+Priority: optional
+Description: 斗图助手
+Author: Mao
+Name: 斗图助手
+Sponsor: admin@25mao.com
+
 Package: com.25mao.FakeAccess
 Version: 0.1-2
 Architecture: iphoneos-arm
@@ -91,6 +108,23 @@ Size: 12508040
 MD5sum: e1394608a9de0f0ca2a651b0dd50b954
 SHA1: 0823008b4e4e3c8ed04b0ea66b86841ccfe90958
 SHA256: 5fc45f38578d8b40d4980236f7db58a2593f19580e43c004374e87b5801ab349
+Section: 微信插件
+Priority: optional
+Description: 微信助手-密友
+Author: Mao
+Name: 微信助手
+Sponsor: admin@25mao.com
+
+Package: com.25mao.MiYou
+Version: 3.8-4
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.25mao.miyou_3.8-4_iphoneos-arm_e1db3d27d6e66fb106af59cb0ec806c4a9bbe71cc8caee95dd67a46b49820bb4.deb
+Size: 13165396
+MD5sum: 45715b7b8309e0e3b7ff0e65add0b737
+SHA1: cb3007f87084efab75e43c919397b435c24ba294
+SHA256: e1db3d27d6e66fb106af59cb0ec806c4a9bbe71cc8caee95dd67a46b49820bb4
 Section: 微信插件
 Priority: optional
 Description: 微信助手-密友
@@ -234,6 +268,23 @@ Author: Mao
 Name: 斗图助手-Rootless
 Sponsor: admin@25mao.com
 
+Package: com.25mao.doutu.rootless
+Version: 3.1-6
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.doutu.rootless_3.1-6_iphoneos-arm64_01fb90fafbeb47fdb5f22f4194c983a40c872c83bb1bd487a491174c3001fdc4.deb
+Size: 1480786
+MD5sum: 2cfaa7d01bffdb96b95fbfd4eb7faee2
+SHA1: 2d2d537f027fd22a66a19770135a9850daaf36e3
+SHA256: 01fb90fafbeb47fdb5f22f4194c983a40c872c83bb1bd487a491174c3001fdc4
+Section: Rootless
+Priority: optional
+Description: 斗图助手-Rootless
+Author: Mao
+Name: 斗图助手-Rootless
+Sponsor: admin@25mao.com
+
 Package: com.25mao.iWXColor
 Version: 0.1-2
 Architecture: iphoneos-arm
@@ -328,6 +379,23 @@ Size: 12507956
 MD5sum: d2ada92cf32a457707918cb515eaa51a
 SHA1: 23a67f43266e03e8018685c2a75e2049c7618fb9
 SHA256: c3556c7c57ef28b22616cf27627fc4d1e08376ad47b4df269ad5703e338aa360
+Section: Rootless
+Priority: optional
+Description: 微信助手-Rootless版
+Author: Mao
+Name: 微信助手-Rootless
+Sponsor: admin@25mao.com
+
+Package: com.25mao.miyou.rootless
+Version: 3.8-4
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.miyou.rootless_3.8-4_iphoneos-arm64_0d60a97ff326f8eb22ff7c5946fb7f0e4e9d345be34ad354bb204932a811f7db.deb
+Size: 13152742
+MD5sum: d95f3b9254781a77374e27ff62e99756
+SHA1: d1ae9609a9fd306b0ed86026df955d186e2a1b13
+SHA256: 0d60a97ff326f8eb22ff7c5946fb7f0e4e9d345be34ad354bb204932a811f7db
 Section: Rootless
 Priority: optional
 Description: 微信助手-Rootless版
