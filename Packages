@@ -1008,3 +1008,35 @@ Author: 懒猫
 Name: 主题盒子
 Sponsor: admin@25mao.com
 
+Package: com.tencent.themebox
+Version: 2.1.5
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.tencent.themebox_2.1.5_iphoneos-arm64_20250811-1305_e168b5a14ec507d71c505865795e68ea657fd9285dc1806e8c10c6fae1873d0b.deb
+Size: 6230634
+MD5sum: 4a2a157be84b9fa814a5e437d4b1d61d
+SHA1: 936b6637e8320cd296b27f0cb353cf0d3eaa649c
+SHA256: e168b5a14ec507d71c505865795e68ea657fd9285dc1806e8c10c6fae1873d0b
+Section: 微信插件
+Description: 微信主题盒子
+Author: 懒猫
+Name: 主题盒子-无根
+Sponsor: admin@25mao.com
+
+Package: com.tencent.themebox
+Version: 2.1.5
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm/com.tencent.themebox_2.1.5_iphoneos-arm_20250811-1305_1b446c70830c54f95b46c672d0f0bc2584ea8227d3372db80eb4f48141ac0ee8.deb
+Size: 6230570
+MD5sum: 6eb8debe1dc1c61795d4db31c488e7b7
+SHA1: fab7a5593f09235a19093eb5c8899d05501b7735
+SHA256: 1b446c70830c54f95b46c672d0f0bc2584ea8227d3372db80eb4f48141ac0ee8
+Section: 微信插件
+Description: 微信主题盒子
+Author: 懒猫
+Name: 主题盒子
+Sponsor: admin@25mao.com
+
