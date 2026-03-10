@@ -336,6 +336,23 @@ Author: Mao
 Name: 消息屏蔽助手
 Sponsor: admin@25mao.com
 
+Package: com.25mao.MsgFilt
+Version: 1.0-7
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.25mao.msgfilt_1.0-7_iphoneos-arm_20260310-1002_2275eb95504891b9ac4970a403e3d3bd57698886e16dd57b5d43c0189c27eb76.deb
+Size: 189394
+MD5sum: cfe0a6fb06c4e96c0d0d9d43b01dba1f
+SHA1: 8e0dda0161706faeb2a9196f55ace23131e5881d
+SHA256: 2275eb95504891b9ac4970a403e3d3bd57698886e16dd57b5d43c0189c27eb76
+Section: 微信插件
+Priority: optional
+Description: 微信消息屏蔽助手
+Author: Mao
+Name: 消息屏蔽助手
+Sponsor: admin@25mao.com
+
 Package: com.25mao.SuDial
 Version: 0.1-5
 Architecture: iphoneos-arm
@@ -770,6 +787,23 @@ Size: 173796
 MD5sum: f129bfece96c7d3b395299f7ced1efed
 SHA1: a10ef8f447cee104609eb9e1d64e7f5178fd3a53
 SHA256: a87c26c39593dc667c03c822961b8e682d7acfbc7050fe2b6439fbce70bdaee5
+Section: Rootless
+Priority: optional
+Description: 消息屏蔽助手
+Author: Mao
+Name: 消息屏蔽助手-Rootless
+Sponsor: admin@25mao.com
+
+Package: com.25mao.msgfilt.rootless
+Version: 1.0-7
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.msgfilt.rootless_1.0-7_iphoneos-arm64_20260310-1002_5c2b97c0e26318a1703518bd0112beae7b1de309499fdb9e9ad518574a58659a.deb
+Size: 189480
+MD5sum: 6c38b99f9017d59da9b3dac602bf85a0
+SHA1: 478a36839a75cb316ba4301d97915e0d7b2422dd
+SHA256: 5c2b97c0e26318a1703518bd0112beae7b1de309499fdb9e9ad518574a58659a
 Section: Rootless
 Priority: optional
 Description: 消息屏蔽助手
