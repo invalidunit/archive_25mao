@@ -319,6 +319,23 @@ Author: Mao
 Name: 微信助手
 Sponsor: admin@25mao.com
 
+Package: com.25mao.MiYou
+Version: 3.9-5
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.25mao.miyou_3.9-5_iphoneos-arm_20260402-1422_de46d90e2caf1ca6abcf603321b678d08c8c9ddfdeaa4a5d14ffde6ea85f14d1.deb
+Size: 6819624
+MD5sum: f7055b8a18b30a26111f2e0d641155eb
+SHA1: beb16ddf47b5d9e7cf0cfede0df6cf34622be5fd
+SHA256: de46d90e2caf1ca6abcf603321b678d08c8c9ddfdeaa4a5d14ffde6ea85f14d1
+Section: 微信插件
+Priority: optional
+Description: 微信助手-密友
+Author: Mao
+Name: 微信助手
+Sponsor: admin@25mao.com
+
 Package: com.25mao.MsgFilt
 Version: 1.0-5.1
 Architecture: iphoneos-arm
@@ -787,6 +804,23 @@ Size: 6768982
 MD5sum: d0d501e4d7553bbd0c72cb2fb6fe892b
 SHA1: 4992e5cf762a0b22a6866666c8724eab1c414fb0
 SHA256: 63a27b97160fe4443dae976906e0bb97a35e0086189e8f0ddbf4ddb93ad00ac1
+Section: Rootless
+Priority: optional
+Description: 微信助手-Rootless版
+Author: Mao
+Name: 微信助手-Rootless
+Sponsor: admin@25mao.com
+
+Package: com.25mao.miyou.rootless
+Version: 3.9-5
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.miyou.rootless_3.9-5_iphoneos-arm64_20260402-1422_60bbd6a9ce57eb5a7714653838f964ff6a801c4af004722938599a9f7815780b.deb
+Size: 6819686
+MD5sum: c6ee8ef47ffe863137e5d44c0ba10c46
+SHA1: ceddca16f2d95c73b9320db6fe95e6465ad092e9
+SHA256: 60bbd6a9ce57eb5a7714653838f964ff6a801c4af004722938599a9f7815780b
 Section: Rootless
 Priority: optional
 Description: 微信助手-Rootless版
