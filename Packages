@@ -66,6 +66,40 @@ Author: Mao
 Name: 气泡盒子
 Sponsor: admin@25mao.com
 
+Package: com.25mao.BubbleBox
+Version: 1.0-3
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.25mao.bubblebox_1.0-3_iphoneos-arm_20260511-1222_2ea1beaef34b973ec0ba14398dc197d07e31dc90629bf2f2dbdb614cd12fe4f7.deb
+Size: 2062660
+MD5sum: b03ea64a4b77d99aa79ee0bd200f661b
+SHA1: 036a5a7008e1b661e8f653b202f6fbdcf0e5726e
+SHA256: 2ea1beaef34b973ec0ba14398dc197d07e31dc90629bf2f2dbdb614cd12fe4f7
+Section: 微信插件
+Priority: optional
+Description: 微信气泡插件
+Author: Mao
+Name: 气泡盒子
+Sponsor: admin@25mao.com
+
+Package: com.25mao.BubbleBox
+Version: 1.0-3
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.25mao.bubblebox_1.0-3_iphoneos-arm64_20260511-1222_03064f27d12116bc16346be90877ecac1512c134006442497e19d004efaa0cee.deb
+Size: 2062688
+MD5sum: c8e37a639589bb620be707d95ad9ef8c
+SHA1: 3d2b09696c295e13bfc198273edcdcc3b8f2982b
+SHA256: 03064f27d12116bc16346be90877ecac1512c134006442497e19d004efaa0cee
+Section: 微信插件
+Priority: optional
+Description: 微信气泡插件
+Author: Mao
+Name: 气泡盒子
+Sponsor: admin@25mao.com
+
 Package: com.25mao.DouTu
 Version: 3.1-5
 Architecture: iphoneos-arm
