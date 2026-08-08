@@ -878,6 +878,23 @@ Name: 左滑返回
 Author: Mao
 Sponsor: admin@25mao.com
 
+Package: com.25mao.leftpan
+Architecture: iphoneos-arm64e
+Version: 2.0-1
+Section: 辅助插件
+Maintainer: admin@25mao.com
+Installed-Size: 376
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>=1.0.4)
+Filename: ./debs/iphoneos-arm64e/com.25mao.leftpan_2.0-1_iphoneos-arm64e_20260808-0952_9603a25cf193bba482d6cbd45078d1e080f24b6ab5dddb09c72fda1e5499d284.deb
+Size: 33790
+MD5sum: 2e95ded78927edaba6acdb3042e93202
+SHA1: 960be185f8d064d44046064c57e26fa07251fff3
+SHA256: 9603a25cf193bba482d6cbd45078d1e080f24b6ab5dddb09c72fda1e5499d284
+SHA512: 29f9ae38db4647349b4ee797d1252193cc8a607b7fe74ffc18e53a48fc8b4704d39bf3c8df91557418a193fa9a2c165582b81f6e78624d2777dd40d75d6d1ba1
+Name: 左滑返回-roothide
+Author: Mao
+Sponsor: admin@25mao.com
+
 Package: com.25mao.leftpan.rootless
 Architecture: iphoneos-arm64
 Version: 1.0-6
@@ -892,6 +909,22 @@ SHA1: c9ea4ae935426ee471effdd5e4f85596cba42534
 SHA256: 6ced73222aadaf35091aa25fbf878648a2947ee80f9ca4d4c36b5fa92311aa2e
 SHA512: b1fbcc775452e528e7ca3c1a5eed19dfc0b9057c718aa2b6ba5ea578156db59e6bdc2816ae186852723e34a7631d4268abc120017d1167237fdd880d5a50e6a7
 Description: 左滑返回上一页面
+Name: 左滑返回-Rootless
+Author: Mao
+
+Package: com.25mao.leftpan.rootless
+Architecture: iphoneos-arm64
+Version: 2.0
+Priority: optional
+Section: Rootless
+Maintainer: admin@25mao.com
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.4)
+Filename: ./debs/iphoneos-arm64/com.25mao.leftpan.rootless_2.0_iphoneos-arm64_20260808-0952_986c40d36cb0b07aaca96ec63a5da36fd0b4c9c8189cd67fc7591765644ebcd3.deb
+Size: 34636
+MD5sum: 10aec6a53eef60ad032f5946bc78890e
+SHA1: d385e0b73eb699f6c6e87188f4316ac1fff88feb
+SHA256: 986c40d36cb0b07aaca96ec63a5da36fd0b4c9c8189cd67fc7591765644ebcd3
+SHA512: 5ffb503c14658edbd4e4eaee749ca5f65dd7786272a9a86a095cc2e0bd01efd004603f56f63226ca0b5ab1d260a87a106c52daba359f8ebe70d9b93167aad9d5
 Name: 左滑返回-Rootless
 Author: Mao
 
