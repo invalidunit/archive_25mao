@@ -11,7 +11,7 @@ jobs:
     with:
       _repo: https://apt.25mao.com/
       _sleep: 1
-      _limit: 1
+      _limit: 0
 
 
   remove_all_old_actions:
