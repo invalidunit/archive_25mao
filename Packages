@@ -2014,6 +2014,22 @@ Author: Mao
 Sponsor: admin@25mao.com
 
 Package: com.tencent.themebox
+Architecture: iphoneos-arm
+Version: 3.0.7
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm/com.tencent.themebox_3.0.7_iphoneos-arm_20260929-1553_1736d3dd9f2cd14f827c79263c54e2b2ccb03b129e2862dd3969419d80af73d4.deb
+Size: 9710028
+MD5sum: df1c35d75cdec6331bac7491e12aee56
+SHA1: f97fdd468f2ac7155ca036cc31db8007c0e3ea19
+SHA256: 1736d3dd9f2cd14f827c79263c54e2b2ccb03b129e2862dd3969419d80af73d4
+SHA512: d740b0d6b572968c0a2d1c177dc0bf70963731e9f32eb8d232ef9e92b0c0e9373497d5cd7492c4e1857147fef2bb7cfcf8387f4961ad874b4644debd12149bef
+Name: 主题盒子
+Author: Mao
+Sponsor: admin@25mao.com
+
+Package: com.tencent.themebox
 Architecture: iphoneos-arm64
 Version: 2.0.3-1
 Section: 微信插件
@@ -2654,6 +2670,22 @@ Author: Mao
 Sponsor: admin@25mao.com
 
 Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 3.0.7
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.tencent.themebox_3.0.7_iphoneos-arm64_20260929-1553_3b8def4629e1a7f45850b3df827b1c3e53943b788abcc23d24549bc593820f4a.deb
+Size: 9704620
+MD5sum: 0bea70244b3b43739bc0d70e2d9a7c0c
+SHA1: 4e039be5afbe4fef0e7d5cac82647f4e67844f6f
+SHA256: 3b8def4629e1a7f45850b3df827b1c3e53943b788abcc23d24549bc593820f4a
+SHA512: a16a91a7a30b32e4ef833c1239cf69e1e61f7bb8bd4b584eed60a47fc2dc2705ea490018c0e82b649aa318576708a1e6345963b47e34eb27cfd84d2c10e277ae
+Name: 主题盒子-无根
+Author: Mao
+Sponsor: admin@25mao.com
+
+Package: com.tencent.themebox
 Architecture: iphoneos-arm64e
 Version: 3.0.3
 Section: 微信插件
@@ -2713,6 +2745,22 @@ MD5sum: bf9686718bf97f91526ffbb345ac3fd1
 SHA1: 282a1f3fc5ddc924fdbb8bd3c760ea67d9c723ad
 SHA256: 39f0af9b0f07fe723d0c7da21e1b4a91b36e377721fb9bf2cdcf14a08e239067
 SHA512: 469756fba578de3e91376537c586c742af77742153c9e75a18d914b476d36ee1ee9c3e221228cfe0791d4a53e65a7ad6b9511fa939a210926055637cccc4c423
+Name: 主题盒子-隐根
+Author: Mao
+Sponsor: admin@25mao.com
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64e
+Version: 3.0.7
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.tencent.themebox_3.0.7_iphoneos-arm64e_20260929-1553_14206b74319bd78392575619309fec4901fb8aea48b8297f3c425dde99094b5b.deb
+Size: 9710028
+MD5sum: 6c580657617aa254c59e1295cae18a26
+SHA1: 53cee6901d8c55360aa1fe18153c5b52585ba8b9
+SHA256: 14206b74319bd78392575619309fec4901fb8aea48b8297f3c425dde99094b5b
+SHA512: 77b15b2911836a940a0523cf518454fe82891ed7f8e4fcde259645ba548282812f0b36f4ee3d3553e84e6c9e82a0099cdeef42660be5952766ed20bb1bc1144a
 Name: 主题盒子-隐根
 Author: Mao
 Sponsor: admin@25mao.com
