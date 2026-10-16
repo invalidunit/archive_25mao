@@ -980,6 +980,23 @@ Author: Mao
 Sponsor: admin@25mao.com
 
 Package: com.25mao.kuaipanel3
+Architecture: iphoneos-arm64
+Version: 3.1-1
+Section: 系统插件
+Maintainer: admin@25mao.com
+Installed-Size: 8648
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.25mao.kuaipanel3_3.1-1_iphoneos-arm64_20261016-0707_bb10e1e53744a4a5be22c58193be4a83d9a285c014325b44cfbfaf783496f63b.deb
+Size: 2500534
+MD5sum: a0737b6707e35f5d777a276c5f5796ba
+SHA1: af02d442e325be9b6ce221affbc2a6b10ae56eac
+SHA256: bb10e1e53744a4a5be22c58193be4a83d9a285c014325b44cfbfaf783496f63b
+SHA512: c76bc9017d04d8ebeb4e1662a781210faa002db52d73c330116e05678e65883feccb9a7e511aae7ab0e63abde32c8167bcaf2b32bf21a7887b2dab2aaf41aee5
+Name: 快捷面板
+Author: Mao
+Sponsor: admin@25mao.com
+
+Package: com.25mao.kuaipanel3
 Architecture: iphoneos-arm64e
 Version: 3.0-1
 Section: 系统插件
@@ -992,6 +1009,23 @@ MD5sum: 42349baf96c2066b7136fabc9279010a
 SHA1: a1effd5fcbc14d5348df37348fab3de142c45bdf
 SHA256: 3fbb4bef6fc3cb1e1532e0601c65bbf30c9b3f044ef06c5f840b13766d4550f2
 SHA512: 9c0a52ad964f170d66927506a54f49ca77b746900881f57143ec815492b48ea67b9e0425db4afca6a026fc971b6accf78a6726ea929244086086550df7a88844
+Name: 快捷面板
+Author: Mao
+Sponsor: admin@25mao.com
+
+Package: com.25mao.kuaipanel3
+Architecture: iphoneos-arm64e
+Version: 3.1-1
+Section: 系统插件
+Maintainer: admin@25mao.com
+Installed-Size: 8760
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.25mao.kuaipanel3_3.1-1_iphoneos-arm64e_20261016-0707_c36494d45dcdea134720ee00bdc94231a17baedf2ae2c3016e9bb7d213c0c28a.deb
+Size: 2498848
+MD5sum: d7b2da42420db5bbd944aa415f62ef17
+SHA1: cea5693f715cfca975f5952b0378773d0c189375
+SHA256: c36494d45dcdea134720ee00bdc94231a17baedf2ae2c3016e9bb7d213c0c28a
+SHA512: b0fdeee910eead6ea6d949e6b60b5edc803031369ef443ac609c9aa9be22db698a9fbf24ff04ff1525b6b48335bcdc5a1a5088bedca6cce01d037850136b2f50
 Name: 快捷面板
 Author: Mao
 Sponsor: admin@25mao.com
